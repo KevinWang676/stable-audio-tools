@@ -24,7 +24,7 @@ setup(
         'pandas==2.0.2',
         'prefigure==0.0.9',
         'pytorch_lightning==2.1.0',
-        'PyWavelets==1.4.1',
+        'PyWavelets',
         'safetensors',
         'sentencepiece==0.1.99',
         'torch>=2.5.1',
